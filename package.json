@@ -1,8 +1,8 @@
 {
-  "name": "taxi-server",
+  "name": "UzaSmart-server",
   "version": "0.8.1",
-  "description": "Server app that connects driver,rider and operator to mysql and redis database",
-  "repository": "http://codecanyon.net",
+  "description": "Server app that connects driver/supplier,customers and operator to mysql and redis database",
+  "repository": "http:github.com/prosperityai/server",
   "license": "UNLICENSED",
   "dependencies": {
     "@google/maps": "^0.3.1",
